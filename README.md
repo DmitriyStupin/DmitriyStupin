@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://vk.com/dmitry.stupin" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/vk-com.png" alt="vk-com"/></a>
 <a href="https://t.me/stupin_dmitry" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram-app--v1"/></a>
-<a href="https://tenchat.ru/dmitry_stupin?utm_source=f4f4e1da-1d53-4595-8a37-20c1ef3f7f16" target="_blank"><img  src="https://asset.brandfetch.io/idl-UVjhmk/idjv4-J1hW.png"/></a>
+<a href="https://tenchat.ru/dmitry_stupin?utm_source=f4f4e1da-1d53-4595-8a37-20c1ef3f7f16" target="_blank"><img width="48" height="48" src="https://img.icons8.com/glyph-neue/48/FA5252/chat.png" alt="chat"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
