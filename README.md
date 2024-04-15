@@ -9,6 +9,7 @@
 <a href="https://t.me/stupin_dmitry" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram-app--v1"/></a>
 <a href="https://tenchat.ru/dmitry_stupin?utm_source=f4f4e1da-1d53-4595-8a37-20c1ef3f7f16" target="_blank"><img width="48" height="48" src="https://img.icons8.com/glyph-neue/48/FA5252/chat.png" alt="Tenchat"/></a>
 <a href="mailto:dm.stup@mail.ru" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/apple-mail.png" alt="Mail.ru"/></a>
+<a href="mailto:2dmitriy.stupin.kja@gmail.com" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
