@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://vk.com/dmitry.stupin" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/vk-com.png" alt="vk-com"/></a>
+<a href="https://vk.com/dmitry.stupin" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/vk-com.png" alt="vk-com"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
