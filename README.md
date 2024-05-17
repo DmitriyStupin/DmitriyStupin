@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitry Stupin</h1>
-<h3 align="center">19 year old Frontend developer from Krasnoyarsk</h3>
+<h3 align="center">19 years old Frontend developer from Krasnoyarsk</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitriystupin&label=Profile%20views&color=0e75b6&style=flat" alt="dmitriystupin" /> </p>
 
