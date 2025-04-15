@@ -20,7 +20,7 @@ Hello everyone I am Dmitry Stupin, a frontend developer from Russia, Krasnoyarsk
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DmitriyStupin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DmitriyStupin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DmitriyStupin&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyStupin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
