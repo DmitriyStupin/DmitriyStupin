@@ -19,7 +19,7 @@ Hello everyone I am Dmitry Stupin, a frontend developer from Russia, Krasnoyarsk
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DmitriyStupin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=DmitriyStupin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DmitriyStupin&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyStupin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
