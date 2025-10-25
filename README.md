@@ -18,9 +18,4 @@ Hi everyone, I'm Dmitry Stupin, a Frontend developer from Russia, Krasnoyarsk.<b
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=%23CB3837)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DmitriyStupin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DmitriyStupin&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyStupin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
