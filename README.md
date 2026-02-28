@@ -5,7 +5,7 @@ Hi everyone, I'm Dmitry Stupin, a Frontend developer from Russia, Krasnoyarsk.<b
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dm.stup@mail.ru) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/stupin_dmitry)
-[![Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dmitrykanst)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dmitrykanst)
 [![VK](https://img.shields.io/badge/VK-%23187AEB?style=flat-square&logo=vk&logoColor=white)](https://vk.com/dmitry.stupin)
 
 # 💻 Tech Stack:
