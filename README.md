@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello everyone, I'm Dmitry Stupin, a Frontend Developer from Russia, Krasnoyarsk.<br>I am study at the Siberian Federal University(SFU) in the field of Applied Informatics (2023-2027)
 
 
